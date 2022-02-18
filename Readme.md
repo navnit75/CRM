@@ -2,7 +2,7 @@
 - This is a Customer handler system. 
 - This is a basic project which provides CRUD operations with the help of `Spring framework` assisted with `Spring Security`, `Hibernate` and `MySQL` . 
 - This project is ROLE based, by which access to various operations related to customers are provided by the ROLES. 
-- A bit of frontend using `HTML + CSS (bootstrap)` is integrated to provide looks to the project. 
+- A bit of frontend using `JSP + CSS (bootstrap)` is integrated to provide looks to the project. 
 - This project was made while learning from Udemy course named **Spring and Hibernate for Beginners** by **Chad Darby**. 
 
 ## Roles and Authentication Details  
