@@ -22,22 +22,23 @@
 ### User and Authorities
 ![](./Images/spring_authentication_schema.png)
 
-## Login 
+## Operations 
+### Login 
 ![](./Images/loginPage.jpg)
 
-## Registration
+### Registration
 ![](./Images/register_new_employee.jpg)
 
-## Page Displayed to Employee 
+### Page Displayed to Employee 
 ![](./Images/role_employee.jpg)
 
-## Page Displayed to Manager
+### Page Displayed to Manager
 ![](./Images/role_manager.jpg)
 
-## Page Displayed to Admin 
+### Page Displayed to Admin 
 ![](./Images/role_admin.jpg)
 
-## Add customer 
+### Add customer 
 ![](./Images/create_customer.jpg)
 
 
