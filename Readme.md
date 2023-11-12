@@ -1,5 +1,5 @@
 ## Introduction
-- This is a Customer handler system. 
+- This is a Customer Resource Manager based on Spring Boot. 
 - This is a basic project which provides CRUD operations with the help of `Spring framework` assisted with `Spring Security`, `Hibernate` and `MySQL` . 
 - This project is ROLE based, by which access to various operations related to customers are provided by the ROLES. 
 - A bit of frontend using `JSP + CSS (bootstrap)` is integrated to provide looks to the project. 
